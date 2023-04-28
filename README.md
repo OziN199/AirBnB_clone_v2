@@ -142,5 +142,5 @@ Usage: <class_name>.update(<_id>, <dictionary>)
 <br>
 
 ## AUTHORS
-- Oluwatomisin Isogun
-- Adeoye Abisola Ajarat
+- Barry
+- Nnebedum ozioma nneka 
